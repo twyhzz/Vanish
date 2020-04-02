@@ -1,0 +1,7 @@
+name: Vanish
+main: com.twyhzz.vanish.VanishPlugin
+version: 1.0
+description: It is a simple plugin which adds vanishes.
+author: twyhzz
+commands:
+  vanish:
